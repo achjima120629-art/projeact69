@@ -1,0 +1,11 @@
+{
+  "name": "wangthong-school-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for Ban Wang Thong School Project Monitoring",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Antigravity",
+  "license": "ISC"
+}
